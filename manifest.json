@@ -1,0 +1,38 @@
+{
+  "name": "abiebdragx.me",
+  "short_name": "abiebdragx",
+  "start_url": "https://www.abiebdragx.me/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f24a4a",
+  "description": "Blog biasa, mengulas tentang perkembangan teknologi, software, hardware dan internet.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-0X-KKj2jeSs/XB4fH5IOYdI/AAAAAAAAHaI/uW9Pzt0cZ7EK-ACDhuTGyR9kdmciA6IuACKgBGAs/s48/android-icon-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-0X-KKj2jeSs/XB4fH5IOYdI/AAAAAAAAHaI/uW9Pzt0cZ7EK-ACDhuTGyR9kdmciA6IuACKgBGAs/s72/android-icon-192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-0X-KKj2jeSs/XB4fH5IOYdI/AAAAAAAAHaI/uW9Pzt0cZ7EK-ACDhuTGyR9kdmciA6IuACKgBGAs/s96/android-icon-192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-0X-KKj2jeSs/XB4fH5IOYdI/AAAAAAAAHaI/uW9Pzt0cZ7EK-ACDhuTGyR9kdmciA6IuACKgBGAs/s144/android-icon-192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-0X-KKj2jeSs/XB4fH5IOYdI/AAAAAAAAHaI/uW9Pzt0cZ7EK-ACDhuTGyR9kdmciA6IuACKgBGAs/s168/android-icon-192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-0X-KKj2jeSs/XB4fH5IOYdI/AAAAAAAAHaI/uW9Pzt0cZ7EK-ACDhuTGyR9kdmciA6IuACKgBGAs/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-AkUDl4ZtAU8/XB4kX_YlCXI/AAAAAAAAHao/WSze551C9DExZH11wwDTkJr6D3vw5dnqQCKgBGAs/s512/Logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
